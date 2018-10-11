@@ -1,2 +1,7 @@
 # siakad
-Sistem Informasi Akademik
+Sistem Informasi Akademik Menggunakan PHP Mysqli
+
+
+demo = siakad.catatanpena.com
+
+
